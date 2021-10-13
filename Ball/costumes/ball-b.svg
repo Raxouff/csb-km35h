@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="-0.5 -0.5 46 46" x="0px" y="0px" width="46" height="46" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve" enable-background="new 0 0 45 45" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0">
+  <g>
+    <radialGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" cx="29.7275" cy="13.1396" r="38.5299">
+      <stop style="stop-color:#80F4FF" offset="0"/>
+      <stop style="stop-color:#0077FF" offset="1"/>
+    </radialGradient>
+    <circle fill="url(#SVGID_1_)" stroke-width="1" cx="22.5" cy="22.5" r="22.5"/>
+  </g>
+</svg>
